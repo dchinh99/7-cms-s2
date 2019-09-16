@@ -1,0 +1,12 @@
+ processorArchitecture="amd64" language="ja-JP" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+					<assemblyIdentity name="Microsoft-Windows-IE-ObjectControlViewer.Resources" version="11.2.9600.19431" processorArchitecture="x86" language="ja-JP" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+				</updateComponent>
+			</applicable>
+			<component>
+				<assemblyIdentity name="0928d6f416f45ed7c56cc6b3d369ea73" version="11.2.9600.19431" processorArchitecture="amd64" language="neutral" buildType="release" publicKeyToken="31bf3856ad364e35" versionScope="nonSxS"/>
+			</component>
+		</update>
+		<update name="4512506-2712_neutral_LDR">
+			<applicable disposition="staged">
+				<updateComponent elevate="serviceLevel">
+					<assemblyIdentity name="Micros
