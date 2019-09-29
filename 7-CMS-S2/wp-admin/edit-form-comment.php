@@ -20,6 +20,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 <input type="hidden" name="action" value="editedcomment" />
 <input type="hidden" name="comment_ID" value="<?php echo esc_attr( $comment->comment_ID ); ?>" />
 <input type="hidden" name="comment_post_ID" value="<?php echo esc_attr( $comment->comment_post_ID ); ?>" />
+<input type="hidden" name="comment_post_ID" value="<?php echo esc_attr( $comment->comment_post_ID ); ?>" />
 
 <div id="post-body" class="metabox-holder columns-2">
 <div id="post-body-content" class="edit-form-section edit-comment-section">
